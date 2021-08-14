@@ -7,15 +7,12 @@ This is a Auto Rental Management Point-of-Sale (POS) System project from my C# .
   - Credit Card Update  
   - Credit Card Delete  
   - Credit Card List  
-<br>
-[⏰] Vehicle Inventory, Transportation & Maintenance Management System  
-[⏰] Customer Relationship Management (CRM) System  
-[⏰] Human Resource Management System  
-[⏰] Finance & Operations System  
-[⏰] Marketing System  
-[⏰] Customer & Field Services System  
+[⏰] Vehicle Inventory, Transportation & Maintenance Management System <br>
+[⏰] Customer Relationship Management (CRM) System <br>
+[⏰] Human Resource Management System <br>
+[⏰] Finance & Operations System <br>
+[⏰] Marketing System <br>
+[⏰] Customer & Field Services System <br>
 
 [✅] = Implemented Feature  
 [⏰] = Planned Feature  
-
-Time spent: **1** month spent in total
