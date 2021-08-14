@@ -1,6 +1,6 @@
 ## Auto Rental Management System (POS-ERP-ARMS)
 
-*This is a Auto Rental Management Point-of-Sale (POS) System project from my C# .NET course. It is also a Enterprise Resource Planning (ERP) System with:*
+*This project includes Point-of-Sale (POS) and Enterprise Resource Planning (ERP) System.*
 ```
 ✅ Credit Card Management System:
    -Credit Card Search
