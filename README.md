@@ -1,19 +1,20 @@
-# Auto Rental Management System (ERP-ARMS)
+# Auto Rental Management System (POS-ERP-ARMS)
 
-This project is from my C# .NET course. It is a Enterprise Resource Planning (ERP) System with  I started  clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+This is a Auto Rental Management Point-of-Sale (POS) System project from my C# .NET course. It is also a Enterprise Resource Planning (ERP) System with:
+[✅]Credit Card Management System (Fully implemented)
+  - Credit Card Search
+  - Credit Card Registration
+  - Credit Card Update
+  - Credit Card Delete
+  - Credit Card List
+[⏰] Vehicle Inventory, Transportation & Maintenance Management System
+[⏰] Customer Relationship Management (CRM) System
+[⏰] Human Resource Management System
+[⏰] Finance & Operations System
+[⏰] Marketing System
+[⏰] Customer & Field Services System
 
-Time spent: **3** hours spent in total
+[✅] = Implemented Feature
+[⏰] = Planned Feature
 
-## User Stories
-
-The following **required** functionality is completed:
-
-- [✅] User stays logged in across restarts. (1pt)
-- [✅] User can log out. (1pt)
-- [✅] User can view comments on a post. (3pts)
-- [✅] User can add a new comment. (5pts)
-
-The following **bonus** features are implemented:
-
-- [⏰] User can add a profile picture. (2pts)
-- [⏰] Profile pictures are shown for posts and comments. (2pts)
+Time spent: **1** month spent in total
