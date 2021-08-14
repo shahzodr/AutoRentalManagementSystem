@@ -15,5 +15,5 @@
 ⏰ Marketing System
 ⏰ Customer & Field Services System
 ```
-[✅] = Implemented Feature  
-[⏰] = Planned Feature
+✅ = Implemented Feature  
+⏰ = Planned Feature
