@@ -17,3 +17,5 @@
 ```
 ✅ = Implemented Feature  
 ⏰ = Planned Feature
+
+To learn more about the Application Design and Implementation process click [HERE](https://drive.google.com/file/d/1vTNkyMged4GwGvo2i9fCFLoWXQtz27WZ/view?usp=sharing)
