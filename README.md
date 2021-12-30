@@ -1,4 +1,4 @@
-## Auto Rental Management System (POS-ERP-ARMS)
+## Rental Management POS-ERP System
 
 *The project design includes Point-of-Sale (POS) and Enterprise Resource Planning (ERP) System features. So far, all 5 features of Credit Card Management System are implemented.*
 ```
